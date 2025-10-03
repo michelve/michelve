@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Michel Velis
 
-Welcome to my repository! This repo is about me — my background, interests, and the projects I’m working on.  
+I’m Michel Velis — a designer crafting purposeful products. This repository shares who I am, what I believe in, and what I build.
 
 ## 🚀 About Me
 - 🎨 UX/Product Designer & Assoc. Creative Director at **Bitovi**  
