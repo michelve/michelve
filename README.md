@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Michel Velis
+# Hi, I’m Michel Velis
 
 I’m Michel Velis — a designer crafting purposeful products. This repository shares who I am, what I believe in, and what I build.
 
