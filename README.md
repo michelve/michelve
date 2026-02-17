@@ -1,8 +1,4 @@
 # Hi, I’m Michel Velis
-
-A designer crafting purposeful products. This repository shares who I am, what I believe in, and what I build.
-
-## About Me
 - Assoc. Director of Product Design at [Bitovi](https://github.com/bitovi)  
 - Focused on **data-driven product design**, AI-driven tools, and financial analytics  
 - Technical builder: custom PC rigs, servers
