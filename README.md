@@ -13,13 +13,5 @@
 - Case studies in **UX design transformation** (enterprise adoption of Figma, value-based contracts, agriculture data tools)  
 - Personal explorations in **genealogy research** and **heritage documentation**  and **MCP and Design Automations**
 
-## Current Learning
-- AI workflow automation on Linux/Windows  
-- Expanding knowledge in **Ai**  
-
 ## Contact
 - LinkedIn: [linkedin.com/in/michelvelis](https://linkedin.com/in/michelvelis)  
-
----
-
-Feel free to explore, fork, or reach out — always open to connecting on design, AI, or finance!
