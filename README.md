@@ -1,17 +1,25 @@
-# Hi, I’m Michel Velis
-- Assoc. Director of Product Design at [Bitovi](https://github.com/bitovi)  
-- Focused on **data-driven product design**, AI-driven tools, and financial analytics  
-- Technical builder: custom PC rigs, servers
+# Hey, I’m Michel 👋
 
-## Skills & Tools
-- **Design:** Figma, Design Systems, Usability Testing, UX Research
-- **Development:** Figma Code Connect, MCP, Wordpress
-- **Other interests:** Stock analysis, automotive repair, home improvement  
+Associate Director of Product Design at [Bitovi](https://github.com/bitovi).  
+I build data-driven products, AI-powered tools, and scalable design systems.
 
-## Projects & Focus
-- Building an AI-driven **stock analysis SaaS platform**  
-- Case studies in **UX design transformation** (enterprise adoption of Figma, value-based contracts, agriculture data tools)  
-- Personal explorations in **genealogy research** and **heritage documentation**  and **MCP and Design Automations**
+I care about smart design, clean execution, and building things that work in the real world — not just in slides.
 
-## Contact
-- LinkedIn: [linkedin.com/in/michelvelis](https://linkedin.com/in/michelvelis)  
+---
+
+## What I Work With
+
+### Design
+- Figma  
+- Design Systems  
+- UX Research  
+- Usability Testing  
+- Figma Code Connect  
+- MCP workflows  
+- WordPress  
+
+### Other Interests
+- Stock analysis  
+- Automotive repair  
+- Home improvement  
+- Custom PC builds  
