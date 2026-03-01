@@ -3,8 +3,6 @@
 Associate Director of Product Design at [Bitovi](https://github.com/bitovi).  
 I build data-driven products, AI-powered tools, and scalable design systems.
 
----
-
 ## What I Work With
 
 ### Design
